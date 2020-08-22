@@ -1,1 +1,1 @@
-The server has been created 
+A real server has been created 
